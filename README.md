@@ -5,20 +5,26 @@
   <div align='center'>
   
 <h1> <strong> Bienvenid@s a  'Fintech Solutions' </strong> </h1></div>
-<div>
-  <p>
-    <strong> Sistema de Predicción de Fraude en Transacciones Financieras </strong>. Ofrecemos una solución práctica y simple para ayudar a identificar las transacciones fraudulentas y detectandolas con la mayor performance posible.
 
+<div>
+   <p>
+    <strong> Sistema de Predicción de Fraude en Transacciones Financieras </strong>. Ofrecemos una solución práctica y simple para ayudar a identificar las transacciones fraudulentas y detectandolas con la mayor performance posible.
   </p>
     <div align='center'>
-    <a href="">
-          <img  src="https://img.shields.io/badge/VER_DEMO-3378FF?style=for-the-badge&logo=vercel&logoColor=%23343B4E"/>
+    <a href="" target="_blank" target="_blank">
+          <img  src="https://github.com/karinakozlowski/Data_Siniestros_Viales/blob/main/6_Assets/BotonAPP.png"/>
        </a>
-   <a href="" target="_blank">
-          <img  src="https://img.shields.io/badge/VER_API-3378FF?style=for-the-badge&logo=swagger&logoColor=%23343B4E"/>
+   <a href="">
+          <img  src="https://github.com/karinakozlowski/Data_Siniestros_Viales/blob/main/6_Assets/Boton01.png"/>
       </a>
- 
+      </div>
 </div>
+
+
+
+
+
+
 
 
 

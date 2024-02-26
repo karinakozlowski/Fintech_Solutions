@@ -76,6 +76,7 @@ Detección de fraude en transacciones de dinero móvil. Predecir si la transacci
 
 ## **Desarrollo**⚠️ 🚧
 
+![Diagrama pasos](https://github.com/karinakozlowski/Fintech_Solutions/blob/main/Assets/Diagrama%20Pasos.jpg) 
 
 + `Proceso de ETL (Extracción, transformación y carga de datos)` [ETL]() 
 
@@ -129,7 +130,8 @@ Los valores atípicos pueden ser de dos tipos: univariados y multivariados. Arri
 
 
 
-+ `Modelado de Machine Learning` [ML]() 
++ `Modelado de Machine Learning` [ML]()
+  ![Diagrama pasos](https://github.com/karinakozlowski/Fintech_Solutions/blob/main/Assets/Esquema.jpg) 
 En la detección de fraudes financieros, se utilizan diversos modelos de aprendizaje automático para identificar patrones y anomalías en grandes conjuntos de datos. Algunos de los modelos más aplicados son:
 
 1. *Regresión Logística:*

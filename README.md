@@ -164,7 +164,7 @@ En la detección de fraudes financieros, se utilizan diversos modelos de aprendi
 Es importante destacar que, en muchos casos, se utilizan enfoques combinados o ensamblajes de varios modelos para mejorar la precisión y robustez en la detección de fraudes financieros. Además, la elección del modelo depende en gran medida de la naturaleza de los datos y de la complejidad del problema específico que se está abordando.
 
 
-+ `Dashboard` [Dashboard]() 
+
 
 ### Datos⛔
 
@@ -211,17 +211,11 @@ Este es un ejemplo de 1 fila con explicación de encabezados:
 
 
 
-### Análisis de los datos⛔
+### APP Detección de Fraude ⛔
+![Dashbaord](Assets/App.jpg) 
 
 
   
-
-
-
-
-
-
-### Indicadores de Rendimiento Clave KPI⛔
 
 
 

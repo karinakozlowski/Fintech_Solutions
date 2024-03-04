@@ -11,10 +11,10 @@
     <strong> Sistema de Predicción de Fraude en Transacciones Financieras </strong>. Ofrecemos una solución práctica y simple para ayudar a identificar las transacciones fraudulentas y detectandolas con la mayor performance posible.
   </p>
     <div align='center'>
-    <a href="" target="_blank" target="_blank">
+    <a href="https://deteccion-fraude.streamlit.app/" target="_blank" target="_blank">
           <img  src="https://github.com/karinakozlowski/Data_Siniestros_Viales/blob/main/6_Assets/BotonAPP.png"/>
        </a>
-   <a href="">
+   <a href="https://deteccion-fraude.streamlit.app/">
           <img  src="https://github.com/karinakozlowski/Data_Siniestros_Viales/blob/main/6_Assets/Boton01.png"/>
       </a>
       </div>
@@ -76,7 +76,10 @@ Detección de fraude en transacciones de dinero móvil. Predecir si la transacci
 
 ## **Desarrollo**⚠️ 🚧
 
-![Diagrama pasos](https://github.com/karinakozlowski/Fintech_Solutions/blob/main/Assets/Diagrama%20Pasos.jpg) 
+![Diagrama pasos](Assets/Pasos.png) 
+![Dashbaord](Assets/Dasboard1.jpg) 
+![Dashbaord](Assets/Dashboard2.jpg) 
+
 
 + `Proceso de ETL (Extracción, transformación y carga de datos)` [ETL]() 
 

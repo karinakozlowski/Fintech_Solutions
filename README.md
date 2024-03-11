@@ -1,4 +1,4 @@
-![Datos oficiales](Assets/Presentacion_Fintech.jpg)
+![Banner](https://github.com/No-Country/C16-103-t-data-bi/blob/main/Assets/Presentacion_Fintech.jpg)
 
 <div>
 
@@ -6,17 +6,16 @@
 <br />
   <div align='center'>
   
-<h1> <strong> Bienvenid@s a  'Fintech Solutions' </strong> </h1></div>
-
+</div>
 <div>
    <p>
-    <strong> Sistema de Predicción de Fraude en Transacciones Financieras </strong>. Ofrecemos una solución práctica y simple para ayudar a identificar las transacciones fraudulentas y detectandolas con la mayor performance posible.
+    
   </p>
     <div align='center'>
-    <a href="https://deteccion-fraude.streamlit.app/" target="_blank" target="_blank">
+    <a href="https://fintechsolutions3.mydurable.com/es" target="_blank" target="_blank">
           <img  src="https://github.com/karinakozlowski/Data_Siniestros_Viales/blob/main/6_Assets/BotonAPP.png"/>
        </a>
-   <a href="https://deteccion-fraude.streamlit.app/">
+   <a href="https://www.youtube.com/watch?v=7bFeY4MfLls&ab_channel=ElGanador%28IDF%29">
           <img  src="https://github.com/karinakozlowski/Data_Siniestros_Viales/blob/main/6_Assets/Boton01.png"/>
       </a>
       </div>
@@ -26,20 +25,18 @@
 
 
 
-
-
-
-
-
 <h2> 
-Introducción⚠️ 🚧
+Introducción
 </h2>
+
+**Sistema de Predicción de Fraude en Transacciones Financieras:** Ofrecemos una solución práctica y simple para ayudar a identificar las transacciones fraudulentas y detectandolas con la mayor performance posible.
+
 
 Desde la llegada de Internet, la revolución digital ha aumentado y se ha infiltrado en todos los aspectos de nuestras vidas. Una de las revoluciones digitales más importantes ocurrió en el sistema financiero y especialmente en las transacciones de dinero a alguien de cualquier parte del mundo de forma digital. Las transacciones digitales se han convertido en parte de la vida diaria, como comprar un producto en línea, enviar dinero a amigos, depositar efectivo en una cuenta bancaria, fines de inversión, etc. Tenían muchos beneficios y allanaron el camino para actividades fraudulentas. La gente comenzó a utilizar un medio de transacciones de dinero digital para lavar dinero y hacer que parezca que proviene de una fuente legal. 
 
+ [Datos oficiales]()
 
-
-## **Contexto**⚠️ 🚧
+## **Contexto**
 
  Un intento ilegal en este conjunto de datos es por ejemplo un intento de transferir más de 200.000 dolares en una sola transacción.
 
@@ -68,6 +65,7 @@ Detección de fraude en transacciones de dinero móvil. Predecir si la transacci
 
 + Python
 + Jupyter Notebooks
++ Power BI
 + Pandas
 + NumPy
 + Matplotlib
@@ -76,16 +74,16 @@ Detección de fraude en transacciones de dinero móvil. Predecir si la transacci
 
 
 
-## **Desarrollo**⚠️ 🚧
+## **Desarrollo**
 
 ![Diagrama pasos](Assets/Presentacion_Fintech_Pasos.jpg) 
-![Dashbaord](Assets/Dasboard1.jpg) 
-![Dashbaord](Assets/Dashboard2.jpg) 
+![Dashbaord](Assets/Dashboard1.png) 
+![Dashbaord](Assets/Dashboard2.png) 
 
 
-+ `Proceso de ETL (Extracción, transformación y carga de datos)` [ETL]() 
++ `Proceso de ETL (Extracción, transformación y carga de datos)` 
 
-+ `Proceso de EDA (Análisis Exploratorio de los datos)`  [EDA]()
++ `Proceso de EDA (Análisis Exploratorio de los datos)`  [EDA](EDA/EDA.ipynb)
 
 Las primeras visualizaciones contienen el número de transacciones según el tipo de transacción, tipo de remitente y destinatario.
 
@@ -133,10 +131,13 @@ Los valores atípicos pueden ser de dos tipos: univariados y multivariados. Arri
 
 
 
++ `Modelado de Machine Learning` 
 
 
-+ `Modelado de Machine Learning` [ML]()
-  ![Diagrama pasos](https://github.com/karinakozlowski/Fintech_Solutions/blob/main/Assets/Esquema.jpg) 
+![Diagrama pasos](Assets/MachineL-Pipeline.gif)
+
+
+  
 En la detección de fraudes financieros, se utilizan diversos modelos de aprendizaje automático para identificar patrones y anomalías en grandes conjuntos de datos. Algunos de los modelos más aplicados son:
 
 1. *Regresión Logística:*
@@ -167,8 +168,7 @@ Es importante destacar que, en muchos casos, se utilizan enfoques combinados o e
 
 
 
-
-### Datos⛔
+### Datos
 
 El conjunto de datos se puede descargar desde: https://www.kaggle.com/ntnu-testimon/paysim1
 
@@ -211,21 +211,12 @@ Este es un ejemplo de 1 fila con explicación de encabezados:
 
 
 
+ ## **APP Detección de Fraudes**
 
-
-### APP Detección de Fraude ⛔
-![Dashbaord](Assets/App.jpg) 
-
-
-  
+![Diagrama pasos](Assets/App.jpg)
 
 
 
-
-
-
-
-## **Conclusiones**⚠️ 🚧
 
 
 <!-- TEAMS -->
@@ -372,5 +363,3 @@ Este es un ejemplo de 1 fila con explicación de encabezados:
     </td>
     </tr>
 </table>
-
-
